@@ -52,7 +52,7 @@ email_field = driver.find_element(By.ID, 'session_key')
 email_field.send_keys('rafi.abdullah.112358@gmail.com')
 
 pass_field = driver.find_element(By.ID, 'session_password')
-pass_field.send_keys('Fotkabazz1123581321')
+pass_field.send_keys('**************')
 pass_field.send_keys(Keys.ENTER)
 ```
 
